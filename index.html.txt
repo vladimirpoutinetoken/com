@@ -81,7 +81,7 @@
 
                 <h1 class="text-3xl text-center lg:text-5xl font-extrabold break-words lg:px-4 mt-6 lg:mt-0">
                     <br>
-                    <span class="text-center text-4xl lg:text-7xl text-cyan-400 glow-text" style="background-image: linear-gradient(to right, cyan, violet);
+                    <span class="text-center text-3xl lg:text-6xl text-cyan-400 glow-text" style="background-image: linear-gradient(to right, cyan, violet);
                     color: transparent;
                     -webkit-background-clip: text;
                     background-clip: text;">VLAD TOKEN</span>
@@ -303,7 +303,7 @@
     <section id="about" class="shadow-2xl py-16">
         <div class="flex flex-col items-center justify-center mx-5 lg:mx-20 gap-5">
           
-                              <span class="text-center text-4xl lg:text-7xl text-cyan-400 glow-text" style="background-image: linear-gradient(to right, cyan, violet);
+                              <span class="text-center text-2xl lg:text-4xl text-cyan-400 glow-text" style="background-image: linear-gradient(to right, cyan, violet);
                     color: transparent;
                     -webkit-background-clip: text;
                     background-clip: text;">VLAD TOKEN</span>
@@ -558,7 +558,7 @@
    <footer class="bg-transparent text-white py-4 text-center mt-10">
         <div class="container mx-auto">
             <!-- Disclaimer, social media icons, copyright here -->
-            <p class="text-sm text-white">Copyright Vlad Token © 2024. All rights reserved</p>
+            <p class="text-sm text-white">Copyright Vlad Token Â© 2024. All rights reserved</p>
         </div>
     </footer>
 
